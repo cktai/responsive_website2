@@ -1,3 +1,3 @@
-# Responsive website with Boostrap
+# Responsive website with Boostrap Grid
 
 ![](cap.png)
